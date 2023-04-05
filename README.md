@@ -1,4 +1,4 @@
-# ML-Project---Cupcake vs Muffin Classification using SVM
+# Machine Learning -Project---Cupcake vs Muffin Classification using SVM
 
 This project uses the Support Vector Machine (SVM) algorithm to identify whether a recipe is a cupcake, or a muffin based on its ingredients. The dataset includes details on ingredients such as flour, milk, sugar, butter, egg, baking powder, vanilla, and salt.
 
